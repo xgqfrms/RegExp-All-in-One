@@ -1,0 +1,29 @@
+{
+  "name": "regexp-all-in-one",
+  "version": "1.0.1",
+  "description": "RegExp All in One",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/RegExp-All-in-One.git"
+  },
+  "keywords": [
+    "RegExp",
+    "All",
+    "in",
+    "One"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/RegExp-All-in-One/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/RegExp-All-in-One#readme"
+}
